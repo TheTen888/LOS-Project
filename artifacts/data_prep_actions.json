@@ -1,0 +1,28 @@
+{
+  "binary_transformations": {
+    "PREV_TX": "Mapped {Y/N, Yes/No, 1/0} -> Int64 binary",
+    "PREV_KID_TX": "Mapped {Y/N, Yes/No, 1/0} -> Int64 binary",
+    "HD": "Mapped {Y/N, Yes/No, 1/0} -> Int64 binary",
+    "IMPORTED": "Mapped {Y/N, Yes/No, 1/0} -> Int64 binary",
+    "KID_PUMPED": "Mapped {Y/N, Yes/No, 1/0} -> Int64 binary",
+    "DGF": "Mapped {Y/N, Yes/No, 1/0} -> Int64 binary",
+    "GENDER": "Standardised to {'Male','Female'} and created RECIPIENT_SEX_MALE",
+    "DONORSEX": "Collapsed to {'M','F'} and created DONOR_SEX_MALE binary"
+  },
+  "grouping_transformations": {
+    "PRIMARY_DX": "Grouped into PRIMARY_DX_GROUP (10 clinically coherent buckets)",
+    "INSURANCE_TYPE": "Grouped into INSURANCE_PAYOR_GROUP (payer macro-categories)",
+    "DONOR_RELATION": "Grouped into DONOR_RELATION_GROUP (5 categories)"
+  },
+  "temporal_transformations": {
+    "temporal": "Engineered interval features in days and removed raw dates",
+    "KIDNEY_TRANSPLANTSDONORDOB9": "Dropped; donor age available and DOB not needed after de-identification"
+  },
+  "dropped_columns": [
+    "GAIT_SPEED_AT_EVAL",
+    "TRANSPLANTED",
+    "TERMINAL_CREAT",
+    "KAS_SCORE",
+    "DGF"
+  ]
+}
