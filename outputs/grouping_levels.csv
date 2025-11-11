@@ -1,0 +1,8 @@
+column,levels
+PRIMARY_DX_GROUP,Acute Kidney Injury|Autoimmune/Vasculitis|Diabetes|Drug/Toxin-Induced|Glomerular Disease|Hereditary/Congenital|Hypertensive Disease|Infectious|Metabolic/Depositional|Missing|Neoplasm|Other/Unspecified|Polycystic Kidney Disease|Structural/Obstructive|Systemic/Secondary|Thrombotic Microangiopathy
+INSURANCE_GROUP,Auto/Other|Commercial/Other|Medicaid|Medicare|Other/Unknown|Self-Pay|Unknown|Workers Comp
+DONOR_RELATION_GROUP,Biological Relative|Non-Biological/Unrelated|Paired/Exchange|Unknown
+EMPLOYMENT_GROUP,Employed|Not Employed|Retired|Student|Unknown
+MARITAL_STATUS_GROUP,Married|Previously Married|Single|Unknown|Widowed
+RACE_GROUP,American Indian / Alaska Native|Asian / Pacific Islander|Black|Other/Multiple|Unknown|White
+ETHNICITY_GROUP,Hispanic/Latino|Non-Hispanic|Unknown

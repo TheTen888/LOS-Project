@@ -1,0 +1,227 @@
+feature,level,count,percent
+BLOOD_TYPE,O,852,42.18
+BLOOD_TYPE,A,824,40.79
+BLOOD_TYPE,B,238,11.78
+BLOOD_TYPE,AB,106,5.25
+DONORSEX,Male,1024,50.69
+DONORSEX,Female,951,47.08
+DONORSEX,Unknown,45,2.23
+DONORTYPE,DBD,847,41.93
+DONORTYPE,Living,710,35.15
+DONORTYPE,DCD,460,22.77
+DONORTYPE,Missing,3,0.15
+DONOR_RACE,White,1691,83.71
+DONOR_RACE,Black,130,6.44
+DONOR_RACE,Missing,59,2.92
+DONOR_RACE,Black/African American,45,2.23
+DONOR_RACE,Not Specificed,32,1.58
+DONOR_RACE,"Unreported,Chose Not to Disclose Race",18,0.89
+DONOR_RACE,Asian,13,0.64
+DONOR_RACE,Other Asian,6,0.3
+DONOR_RACE,American Indian,4,0.2
+DONOR_RACE,Asian Indian,4,0.2
+DONOR_RACE,3,2,0.1
+DONOR_RACE,Korean,2,0.1
+DONOR_RACE,Other,2,0.1
+DONOR_RACE,Hispanic Other,2,0.1
+DONOR_RACE,Hispanic,2,0.1
+DONOR_RACE,Vietnamese,1,0.05
+DONOR_RACE,Filipino,1,0.05
+DONOR_RACE,24,1,0.05
+DONOR_RACE,25,1,0.05
+DONOR_RACE,American Indian/Alaska Native,1,0.05
+DONOR_RACE,Other Pacific Islander,1,0.05
+DONOR_RACE,6,1,0.05
+DONOR_RACE,Declined,1,0.05
+DONOR_RELATION,Other - Non Biological,1544,76.44
+DONOR_RELATION,Unknown,68,3.37
+DONOR_RELATION,Related Other - Biological,64,3.17
+DONOR_RELATION,Brother - Biological,46,2.28
+DONOR_RELATION,Son - Biological,45,2.23
+DONOR_RELATION,Sister - Biological,44,2.18
+DONOR_RELATION,Anonymous - Non Biological,41,2.03
+DONOR_RELATION,Daughter - Biological,36,1.78
+DONOR_RELATION,Spouse - Non Biological,36,1.78
+DONOR_RELATION,Paired Donation - Non Biological,34,1.68
+DONOR_RELATION,Anonymous Directed - Non Biological,16,0.79
+DONOR_RELATION,Mother - Biological,14,0.69
+DONOR_RELATION,Father - Biological,13,0.64
+DONOR_RELATION,Living/Deceased Donation - Non Biological,12,0.59
+DONOR_RELATION,Anonymous Humanitarian - Non Biological,2,0.1
+DONOR_RELATION,Half Brother - Biological,2,0.1
+DONOR_RELATION,Life Partner - Non Biological,1,0.05
+DONOR_RELATION,Twin Brother - Biological,1,0.05
+DONOR_RELATION,Twin Sister - Biological,1,0.05
+DONOR_RELATION_GROUP,Non-Biological/Unrelated,1621,80.25
+DONOR_RELATION_GROUP,Biological Relative,264,13.07
+DONOR_RELATION_GROUP,Unknown,101,5.0
+DONOR_RELATION_GROUP,Paired/Exchange,34,1.68
+EMPLOYMENT_GROUP,Employed,664,32.87
+EMPLOYMENT_GROUP,Not Employed,533,26.39
+EMPLOYMENT_GROUP,Unknown,520,25.74
+EMPLOYMENT_GROUP,Retired,271,13.42
+EMPLOYMENT_GROUP,Student,32,1.58
+EMPLOYMENT_STATUS,Full Time,570,28.22
+EMPLOYMENT_STATUS,Not Employed,533,26.39
+EMPLOYMENT_STATUS,Unknown,520,25.74
+EMPLOYMENT_STATUS,Retired,271,13.42
+EMPLOYMENT_STATUS,Part Time,52,2.57
+EMPLOYMENT_STATUS,Self Employed,42,2.08
+EMPLOYMENT_STATUS,Student Full Time,32,1.58
+ETHNICITY,Non-Hispanic,2008,99.41
+ETHNICITY,Hispanic/Latino,11,0.54
+ETHNICITY,Unknown,1,0.05
+ETHNICITY_GROUP,Non-Hispanic,2008,99.41
+ETHNICITY_GROUP,Hispanic/Latino,11,0.54
+ETHNICITY_GROUP,Unknown,1,0.05
+GENDER,Male,1252,61.98
+GENDER,Female,768,38.02
+INSURANCE_GROUP,Medicare,1094,54.16
+INSURANCE_GROUP,Commercial/Other,676,33.47
+INSURANCE_GROUP,Medicaid,145,7.18
+INSURANCE_GROUP,Self-Pay,83,4.11
+INSURANCE_GROUP,Other/Unknown,14,0.69
+INSURANCE_GROUP,Unknown,4,0.2
+INSURANCE_GROUP,Auto/Other,3,0.15
+INSURANCE_GROUP,Workers Comp,1,0.05
+INSURANCE_TYPE,Medicare,644,31.88
+INSURANCE_TYPE,UPMC For Life Medicare,256,12.67
+INSURANCE_TYPE,UPMC Employees,166,8.22
+INSURANCE_TYPE,Highmark Direct Bill,154,7.62
+INSURANCE_TYPE,Advantra MC HMO/PPO,140,6.93
+INSURANCE_TYPE,UPMC For You,85,4.21
+INSURANCE_TYPE,Self-Pay,83,4.11
+INSURANCE_TYPE,United Healthcare Medicare,77,3.81
+INSURANCE_TYPE,Medicare HMO,68,3.37
+INSURANCE_TYPE,Aetna,55,2.72
+INSURANCE_TYPE,Security Blue,52,2.57
+INSURANCE_TYPE,United Healthcare,47,2.33
+INSURANCE_TYPE,Medicare Managed,25,1.24
+INSURANCE_TYPE,Cigna,25,1.24
+INSURANCE_TYPE,Gateway Medicare,23,1.14
+INSURANCE_TYPE,HMI,20,0.99
+INSURANCE_TYPE,Gateway,19,0.94
+INSURANCE_TYPE,Aetna Out of State Medicaid Managed,16,0.79
+INSURANCE_TYPE,Medicaid HMO,10,0.5
+INSURANCE_TYPE,BCBS,8,0.4
+INSURANCE_TYPE,Other,7,0.35
+INSURANCE_TYPE,Medicaid Managed,6,0.3
+INSURANCE_TYPE,147,5,0.25
+INSURANCE_TYPE,Pending Medicaid,5,0.25
+INSURANCE_TYPE,Medicaid,4,0.2
+INSURANCE_TYPE,Unknown,4,0.2
+INSURANCE_TYPE,Auto,3,0.15
+INSURANCE_TYPE,Commerical,3,0.15
+INSURANCE_TYPE,UPMC Global Care Program,3,0.15
+INSURANCE_TYPE,Champus,3,0.15
+INSURANCE_TYPE,158,2,0.1
+INSURANCE_TYPE,Workers Comp,1,0.05
+INSURANCE_TYPE,Community Blue Medicare,1,0.05
+MARITAL_STATUS,Married,1067,52.82
+MARITAL_STATUS,Single,626,30.99
+MARITAL_STATUS,Separated,166,8.22
+MARITAL_STATUS,Divorced,90,4.46
+MARITAL_STATUS,Unknown,56,2.77
+MARITAL_STATUS,Widowed,15,0.74
+MARITAL_STATUS_GROUP,Married,1067,52.82
+MARITAL_STATUS_GROUP,Single,626,30.99
+MARITAL_STATUS_GROUP,Previously Married,256,12.67
+MARITAL_STATUS_GROUP,Unknown,56,2.77
+MARITAL_STATUS_GROUP,Widowed,15,0.74
+PRIMARY_DX,Diabetes Mellitus - Type II,326,16.14
+PRIMARY_DX,"Other, Specify",297,14.7
+PRIMARY_DX,Hypertensive Nephrosclerosis,283,14.01
+PRIMARY_DX,Polycystic Kidneys,184,9.11
+PRIMARY_DX,Diabetes Mellitus - Type I,156,7.72
+PRIMARY_DX,Missing,124,6.14
+PRIMARY_DX,Calcineurin Inhibitor Nephrotoxicity,112,5.54
+PRIMARY_DX,Focal Glomerular Sclerosis (Focal Segmental - FSG),104,5.15
+PRIMARY_DX,IgA Nephropathy,87,4.31
+PRIMARY_DX,Chronic Glomerulonephritis - Unspecified,41,2.03
+PRIMARY_DX,Systemic Lupus Erythematosus,32,1.58
+PRIMARY_DX,Acute Tubular Necrosis,28,1.39
+PRIMARY_DX,Alport's Syndrome,22,1.09
+PRIMARY_DX,Membranous Glomerulonephritis,17,0.84
+PRIMARY_DX,Hepatorenal Syndrome,14,0.69
+PRIMARY_DX,Hypoplasia/Dysplasia/Dysgenesis/Agenesis,14,0.69
+PRIMARY_DX,Malignant Hypertension,12,0.59
+PRIMARY_DX,Chronic Pyelonephritis (Reflux Nephropathy),11,0.54
+PRIMARY_DX,Acquired Obstructive Nephropathy,10,0.5
+PRIMARY_DX,Wegener's Granulomatosis,10,0.5
+PRIMARY_DX,Analgesic Nephropathy,10,0.5
+PRIMARY_DX,Nephritis,10,0.5
+PRIMARY_DX,Lithium Toxicity,10,0.5
+PRIMARY_DX,Congenital Obstructive Uropathy,9,0.45
+PRIMARY_DX,Renal Cell Carcinoma,7,0.35
+PRIMARY_DX,Diabetes Mellitus - Type Other / Unknown,6,0.3
+PRIMARY_DX,Diabetes - Type I Insulin Dep/Juvenile Onset,6,0.3
+PRIMARY_DX,Hemolytic Uremic Syndrome,6,0.3
+PRIMARY_DX,HIV Nephropathy,6,0.3
+PRIMARY_DX,Amyloidosis - Kidney,5,0.25
+PRIMARY_DX,Nephrolithiasis,5,0.25
+PRIMARY_DX,Chronic Glomerulosclerosis - Unspecified,4,0.2
+PRIMARY_DX,Idiopathic and Post-infectious Crescentic Glomerulonephritis,4,0.2
+PRIMARY_DX,Drug Related Interstitial Nephritis,4,0.2
+PRIMARY_DX,Goodpasture's Syndrome,4,0.2
+PRIMARY_DX,Membranous Nephropathy,4,0.2
+PRIMARY_DX,Polyarteritis,4,0.2
+PRIMARY_DX,Prune Belly Syndrome,4,0.2
+PRIMARY_DX,Oxalate Nephropathy (Includes Hereditary Oxalosis),3,0.15
+PRIMARY_DX,Myeloma,3,0.15
+PRIMARY_DX,Henoch-Schonlein Purpura,3,0.15
+PRIMARY_DX,Anti-GBM,2,0.1
+PRIMARY_DX,Sarcoidosis - Kidney,2,0.1
+PRIMARY_DX,Diabetes - Type I Non-Insulin Dep/ Juvenile Onset,2,0.1
+PRIMARY_DX,Scleroderma - Kidney,2,0.1
+PRIMARY_DX,Chronic Nephrosclerosis - Unspecified,2,0.1
+PRIMARY_DX,Diabetes - Type II Non-Insulin Dep/ Adult Onset,1,0.05
+PRIMARY_DX,Incidental Carcinoma,1,0.05
+PRIMARY_DX,Medullary Cystic Disease,1,0.05
+PRIMARY_DX,Wilms' Tumor,1,0.05
+PRIMARY_DX,Nephronophthisis,1,0.05
+PRIMARY_DX,Cancer Chemotherapy Induced Nephritis,1,0.05
+PRIMARY_DX,Mesangio-capillary Glomerulonephritis Type II,1,0.05
+PRIMARY_DX,Cortical Necrosis,1,0.05
+PRIMARY_DX,Fabry's Disease,1,0.05
+PRIMARY_DX_GROUP,Diabetes,497,24.6
+PRIMARY_DX_GROUP,Other/Unspecified,297,14.7
+PRIMARY_DX_GROUP,Hypertensive Disease,297,14.7
+PRIMARY_DX_GROUP,Glomerular Disease,272,13.47
+PRIMARY_DX_GROUP,Polycystic Kidney Disease,184,9.11
+PRIMARY_DX_GROUP,Drug/Toxin-Induced,137,6.78
+PRIMARY_DX_GROUP,Missing,124,6.14
+PRIMARY_DX_GROUP,Autoimmune/Vasculitis,59,2.92
+PRIMARY_DX_GROUP,Hereditary/Congenital,51,2.52
+PRIMARY_DX_GROUP,Acute Kidney Injury,29,1.44
+PRIMARY_DX_GROUP,Structural/Obstructive,26,1.29
+PRIMARY_DX_GROUP,Systemic/Secondary,14,0.69
+PRIMARY_DX_GROUP,Neoplasm,12,0.59
+PRIMARY_DX_GROUP,Metabolic/Depositional,9,0.45
+PRIMARY_DX_GROUP,Infectious,6,0.3
+PRIMARY_DX_GROUP,Thrombotic Microangiopathy,6,0.3
+RACE,White,1487,73.61
+RACE,Black/African American,419,20.74
+RACE,"Unreported,Chose Not to Disclose Race",69,3.42
+RACE,Other Asian,13,0.64
+RACE,American Indian/Alaska Native,8,0.4
+RACE,Asian Indian,7,0.35
+RACE,Missing,6,0.3
+RACE,Chinese,4,0.2
+RACE,Japanese,3,0.15
+RACE,Vietnamese,2,0.1
+RACE,Other Pacific Islander,1,0.05
+RACE,Other,1,0.05
+RACE_GROUP,White,1487,73.61
+RACE_GROUP,Black,419,20.74
+RACE_GROUP,Unknown,75,3.71
+RACE_GROUP,Asian / Pacific Islander,30,1.49
+RACE_GROUP,American Indian / Alaska Native,8,0.4
+RACE_GROUP,Other/Multiple,1,0.05
+STATUS,Active Follow-up,1324,65.54
+STATUS,Not Followed,647,32.03
+STATUS,Reporting Follow-up Only,48,2.38
+STATUS,Active,1,0.05
+UrbanSuburbanSmallTownRural,Suburban,1011,50.05
+UrbanSuburbanSmallTownRural,Small Town,502,24.85
+UrbanSuburbanSmallTownRural,Rural,330,16.34
+UrbanSuburbanSmallTownRural,Urban,177,8.76
